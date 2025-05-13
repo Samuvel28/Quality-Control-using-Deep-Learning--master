@@ -2,6 +2,8 @@
 
 Automating the process of quality control using visual inspection by developing a deep learning model to distinguish between defective and non-defective products. Implementing model architecture as proposed in the [paper](https://link.springer.com/article/10.1007/s00170-017-0882-0).
 
+ [Download Related File (Google Drive)](https://drive.google.com/file/d/1nM87G2N02LeW_H0UupwT_DXlGzNlcMAl/view?pli=1)
+
 ## Prerequisites 
 
 * Python 3.3+ 
